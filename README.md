@@ -71,10 +71,10 @@ All BigQuery calls are modularized inside src/services/bigqueryService.ts for cl
 ## 🌍 Data Sources:
 The prototype connects with reliable, publicly available datasets including:
 
-🌐 World Bank Climate Indicators
-🌐 NOAA GSOD Weather Records
-🌐 IEA Energy & Emissions Data
-🌐 UN Data & Regional Statistics 
+- 🌐 World Bank Climate Indicators
+- 🌐 NOAA GSOD Weather Records
+- 🌐 IEA Energy & Emissions Data
+- 🌐 UN Data & Regional Statistics 
 Each generated report cites its sources for trust and transparency.
 ---
 ## 🏆 Competition Context:
