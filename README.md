@@ -77,12 +77,15 @@ The prototype connects with reliable, publicly available datasets including:
 - 🌐 UN Data & Regional Statistics 
 Each generated report cites its sources for trust and transparency.
 ---
-## Prtotype created using Lovable AI:
-https://climate-insight-fusion.lovable.app/
+## [Prtotype created using Lovable AI:
+-> https://climate-insight-fusion.lovable.app/]
+
 ---
+
 ## 🏆 Competition Context:
 
 This project was developed as part of the **Kaggle BigQuery AI Hackathon: Building the Future of Data.** It addresses the challenge of making **climate + economic data** actionable through **Generative AI, Vector Search, and Multimodal capabilities**, proving how BigQuery AI can extend SQL beyond rows and columns into **real-time, decision-ready intelligence.**
+
 ---
 ## Image:
 <img width="1589" height="878" alt="Screenshot 2025-09-21 160017" src="https://github.com/user-attachments/assets/0fa7b9e2-5726-499c-b51b-2740596b4246" />
