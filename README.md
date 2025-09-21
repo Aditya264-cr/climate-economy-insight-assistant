@@ -77,8 +77,8 @@ The prototype connects with reliable, publicly available datasets including:
 - 🌐 UN Data & Regional Statistics 
 Each generated report cites its sources for trust and transparency.
 ---
-## [Prtotype created using Lovable AI:
--> https://climate-insight-fusion.lovable.app/]
+## Prototype created using Lovable AI:
+-> [https://climate-insight-fusion.lovable.app/]
 
 ---
 
